@@ -1,9 +1,9 @@
 === Embeditor ===
-Contributors: kfarris
+Contributors: Direct Match Media
 Tags: embed, image, tags, links
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 1.1.2
+Stable tag: 1.2.2
 
 Adds and embed box under an image post.
 
@@ -31,6 +31,9 @@ If the automatic process above fails, follow these simple steps to do a manual i
 
 
 == Changelog ==
+
+= 1.2.2 (Oct 29, 2012)
+* Updated contributor info 
 
 = 1.2.1 (Apr. 4, 2012)
 *Resolved issues with Javascript
