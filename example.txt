@@ -1,0 +1,7 @@
+///	post editor shortcode
+
+[embeditor-box image="http://localhost/whitelabel/wp-content/uploads/2012/04/600full-trading-places-screenshot.jpg" source="http://tradingplaces.com" size="300" heading="Trading Places" text="Trading Places was a good movie. You should go to &lt;a href=&quot;http://imdb.com&quot;&gt;IMDB&lt;/a&gt; and read more about it." width="600" height="340"][/embeditor-box]
+
+/// front-end site
+
+<a href="http://tradingplaces.com" title="Trading Places" target="_blank"><img src="http://localhost/whitelabel/wp-content/uploads/2012/04/600full-trading-places-screenshot.jpg" width="600" height="340" alt="Trading Places" title="Trading Places"></a><p>Trading Places was a good movie. You should go to <a href="http://imdb.com">IMDB</a> and read more about it.</p>
