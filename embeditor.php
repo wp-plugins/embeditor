@@ -3,7 +3,7 @@
 Plugin Name: Embeditor
 Plugin URI: http://directmatchmedia.com/wordpress/plugins/embeditor.zip
 Description: Embeditor gives users the option to turn any uploaded image into an embedable image, easily shared on other websites. Perfect for infographics and other viral images, Embeditor creates an enhanced media dialog in the WordPress Image editor to allow insertion of an “Embed This Image” code box below any image used in a post or page.
-Version: 1.2.1
+Version: 1.2.2
 Author: Direct Match Media, Inc.
 Author URI: http://www.directmatchmedia.com
 */
